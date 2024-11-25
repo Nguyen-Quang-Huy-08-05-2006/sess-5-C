@@ -10,7 +10,6 @@ int main(){
 			printf("%d=%d+%d", c+b, c, b);
 		}
 	}
-	printf("%d", d);
 	
 	return 0;
 	
