@@ -7,7 +7,7 @@ int main(){
 	scanf("%d",&a);
 	for(b>=a; b++){
 		for(int c=0; c>=a; c++){
-			printf("%d=%d+%d", d=a+b);
+			printf("%d=%d+%d", d=c+b);
 		}
 	}
 	printf("%d", d);
